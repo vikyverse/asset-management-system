@@ -1,0 +1,6 @@
+{
+  "name": "PersonaDash Enterprise",
+  "description": "Enterprise-grade persona-based dashboard system with role-specific workflows for REP, PURCHASE, MANAGER, and ADMIN roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
